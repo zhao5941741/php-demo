@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9bf4d629-091e-44d3-aa7a-8f6260f38b82" name="Apache" url="http://www.zrp.com">
+        <fileTransfer mountedRoot="E:\IdeaProject\PHP" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
